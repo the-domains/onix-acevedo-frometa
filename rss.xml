@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ónix acevedo frómeta]]></title>
+        <description><![CDATA[ónix acevedo frómeta]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 28 Mar 2016 19:29:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Diseño de interfases de usuario para CEN</p>]]></description>
+            <link>undefineddf50091c-018e-4cfe-9d27-3ab18900fcce/index.html</link>
+            <guid isPermaLink="false">df50091c-018e-4cfe-9d27-3ab18900fcce</guid>
+            <pubDate>Mon, 28 Mar 2016 19:29:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
