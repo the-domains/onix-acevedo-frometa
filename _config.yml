@@ -1,6 +1,6 @@
 name: ónix acevedo frómeta
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.24618
 typography_spectrum: 0.74023
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#010149'
-    - '#158498'
-    - '#f6fe99'
-    - '#9cc86c'
-    - '#552d4d'
-  brandStrength: 0.5
+    - '#d87d00'
+    - '#7e0305'
+    - '#070802'
+    - '#264800'
+    - '#ffe5a7'
+  brandStrength: 0.25
   lightness: 0.125
-  saturation: 0.8125
-  rhythmicContrast: 0.5
+  saturation: 0.9375
+  rhythmicContrast: 0.25
 purpose: []
